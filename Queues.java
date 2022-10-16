@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 public class Queues {
 	static void run() {
-		// Stack is FIFO - First-In First-Out (example: A line of people)
+		// Queue is FIFO - First-In First-Out (example: A line of people)
 		
 		/*
 		 * What are the main uses of stacks?
