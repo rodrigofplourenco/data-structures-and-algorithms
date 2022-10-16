@@ -8,7 +8,7 @@ public class Queues {
 		// Queue is FIFO - First-In First-Out (example: A line of people)
 		
 		/*
-		 * What are the main uses of stacks?
+		 * What are the main uses of queues?
 		 * 1- keyboard buffer (letters should appear on the screen in the order they're pressed)
 		 * 2- printer queue (print jobs should be completed in order)
 		 * 3- used in linked lists, priority queues, breadth-first approach (since Queue is an interface)
